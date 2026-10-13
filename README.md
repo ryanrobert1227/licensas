@@ -1,1 +1,0 @@
-# licensas.txt

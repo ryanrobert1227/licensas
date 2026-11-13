@@ -8,7 +8,7 @@ MACRO-|ATIVO|
 Gabriel Next
 18 99652-8396
 Dia 13/10/2026
-MACRO-RCS5--C1WE--IOJ3|DESATIVADO|
+MACRO-RCS5--C1WE--IOJ3|BLOQUEADO|
 
 ==============================================================================================
 SIRIUS2
